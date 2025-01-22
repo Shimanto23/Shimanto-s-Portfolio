@@ -25,7 +25,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Mechanical Engineer", "Undergraduate Student", "3D CAD Designer","MATLAB Programmer"],
+		strings: ["Mechanical Engineer", "PhD Student", "3D CAD Designer","Python Programmer"],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
